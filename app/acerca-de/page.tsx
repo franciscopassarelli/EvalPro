@@ -161,7 +161,8 @@ export default function AcercaDePage() {
                 </p>
               </div>
             </div>
-            <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 md:grid-cols-2 lg:grid-cols-3">
+            <div className="mx-auto grid max-w-4xl gap-6 py-12 md:grid-cols-2 justify-center">
+
               <div className="flex flex-col items-center space-y-4 text-center card-hover p-6 rounded-lg gradient-card">
                 <div className="relative">
                   <div className="absolute -inset-1 bg-gradient-to-r from-primary to-purple-600 rounded-full blur-md opacity-75"></div>
@@ -174,10 +175,10 @@ export default function AcercaDePage() {
                   />
                 </div>
                 <div className="space-y-2">
-                  <h3 className="text-xl font-bold">María Rodríguez</h3>
-                  <p className="text-primary font-medium">CEO & Fundadora</p>
+                  <h3 className="text-xl font-bold">Francisco Passarelli</h3>
+                  <p className="text-primary font-medium">CEO</p>
                   <p className="text-gray-500">
-                    Con más de 15 años de experiencia en RRHH y desarrollo organizacional.
+                  Desarrollador Fullstack Lic.Informática
                   </p>
                 </div>
               </div>
@@ -193,29 +194,10 @@ export default function AcercaDePage() {
                   />
                 </div>
                 <div className="space-y-2">
-                  <h3 className="text-xl font-bold">Carlos Méndez</h3>
+                  <h3 className="text-xl font-bold">Benjamin Moreno Sáez</h3>
                   <p className="text-primary font-medium">CTO</p>
                   <p className="text-gray-500">
-                    Ingeniero de software con pasión por crear soluciones tecnológicas innovadoras.
-                  </p>
-                </div>
-              </div>
-              <div className="flex flex-col items-center space-y-4 text-center card-hover p-6 rounded-lg gradient-card">
-                <div className="relative">
-                  <div className="absolute -inset-1 bg-gradient-to-r from-primary to-purple-600 rounded-full blur-md opacity-75"></div>
-                  <img
-                    alt="Foto de perfil"
-                    className="relative rounded-full object-cover h-32 w-32 border-2 border-white"
-                    src="/placeholder.svg?height=128&width=128"
-                    width={128}
-                    height={128}
-                  />
-                </div>
-                <div className="space-y-2">
-                  <h3 className="text-xl font-bold">Ana Gómez</h3>
-                  <p className="text-primary font-medium">Directora de Producto</p>
-                  <p className="text-gray-500">
-                    Especialista en experiencia de usuario y diseño de productos centrados en las personas.
+                  Desarrollador Frontend
                   </p>
                 </div>
               </div>

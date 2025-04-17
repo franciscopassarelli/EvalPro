@@ -84,7 +84,7 @@ export default function PreciosPage() {
                   <CardTitle className="text-xl text-slate-800">Profesional</CardTitle>
                   <CardDescription className="text-slate-600">Para empresas medianas en expansión</CardDescription>
                   <div className="mt-4">
-                    <span className="text-4xl font-bold gradient-heading">$199</span>
+                    <span className="text-4xl font-bold gradient-heading">$19</span>
                     <span className="text-slate-600 ml-2">/mes</span>
                   </div>
                 </CardHeader>
@@ -127,7 +127,7 @@ export default function PreciosPage() {
                   <CardTitle className="text-xl text-slate-800">Empresarial</CardTitle>
                   <CardDescription className="text-slate-600">Para grandes organizaciones</CardDescription>
                   <div className="mt-4">
-                    <span className="text-4xl font-bold gradient-heading">$399</span>
+                    <span className="text-4xl font-bold gradient-heading">$39</span>
                     <span className="text-slate-600 ml-2">/mes</span>
                   </div>
                 </CardHeader>
